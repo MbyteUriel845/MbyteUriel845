@@ -78,8 +78,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/heroku/430098" height="40" alt="heroku logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="40" alt="kotlin logo"  />
@@ -132,12 +130,6 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MbyteUriel845&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
